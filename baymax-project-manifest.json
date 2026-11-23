@@ -1,0 +1,38 @@
+{
+  "project": "BayMax",
+  "version": "1.0",
+  "description": "Implementation anchor pack for a BSCS AI companion and digital legacy prototype",
+  "documents": [
+    "AGENTS.md",
+    "README.md",
+    "docs/01-product-requirements.md",
+    "docs/02-architecture.md",
+    "docs/03-domain-model-and-database.md",
+    "docs/04-api-contract.md",
+    "docs/05-ai-and-security-rules.md",
+    "docs/06-ui-ux-and-design-system.md",
+    "docs/07-adaptive-personalization.md",
+    "docs/08-voice-and-ai-presence.md",
+    "docs/09-archive-and-export.md",
+    "docs/10-action-engine.md",
+    "docs/11-policy-language-and-prolog.md",
+    "docs/12-programming-paradigms-and-thesis-requirements.md",
+    "docs/13-ranked-roadmap.md",
+    "docs/14-testing-and-acceptance.md",
+    "docs/15-team-ownership-and-collaboration.md",
+    "docs/16-vibecoding-workflow-and-prompts.md",
+    "docs/17-decisions-and-open-questions.md",
+    "docs/18-demo-script-and-defense.md"
+  ],
+  "stack": [
+    "React",
+    "Vite",
+    "TypeScript",
+    "Tailwind CSS",
+    "React Flow",
+    "FastAPI",
+    "Python",
+    "PostgreSQL",
+    "SWI-Prolog"
+  ]
+}
